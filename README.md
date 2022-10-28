@@ -18,3 +18,4 @@ Here you will learn how to create a simple pull request
    ```
 4. Commit changes you made and I will accept it for hacktoberfest if file formatting will be followed.
 
+Let's add more details like what kind of character he/she is.
